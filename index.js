@@ -1,0 +1,1 @@
+const buttonColors = ["red","blue","yellow","green"];
